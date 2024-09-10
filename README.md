@@ -1,6 +1,6 @@
 ## **README.md**
 
-### **Pedras Preciosas: Seu Guia Completo (em Desenvolvimento)!** ✨
+### **Pedras Preciosas: Um guia para ajudar você a conhecer as pedras preciosas** ✨
 
 **O que é esse projeto?**
 
